@@ -1,0 +1,426 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Bar Příroda",
+    "identifier": "urn:uuid:e79fdc2b-546d-49d8-9f97-1fe0f39fbb6f",
+    "author": "Petr Král",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2019-11-21T00:00:00.000Z",
+    "published": "2019-11-20T00:00:00.000Z",
+    "subject": "subject",
+    "generator": "Adobe InDesign",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_045.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_046.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_047.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_048.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_049.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/bar_priroda_050.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/bar_prirod_idstyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/bar_priroda_001_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/bar_priroda_002a_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/bar_priroda_002b_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/bar_priroda_003_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_bar_priroda_fmt.jpeg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "I Malé dějiny",
+      "children": [
+        {
+          "title": "Soukromý hrad Mikuláše Medka",
+          "href": "OEBPS/Text/bar_priroda_006.xhtml#toc_marker-1-1"
+        },
+        {
+          "title": "Malé dějiny (Příměří)",
+          "href": "OEBPS/Text/bar_priroda_007.xhtml#toc_marker-1-2"
+        },
+        {
+          "title": "Kus textu",
+          "href": "OEBPS/Text/bar_priroda_008.xhtml#toc_marker-1-3"
+        },
+        {
+          "title": "Epilog",
+          "href": "OEBPS/Text/bar_priroda_009.xhtml#toc_marker-1-4"
+        },
+        {
+          "title": "Žluté nebezpečí",
+          "href": "OEBPS/Text/bar_priroda_010.xhtml#toc_marker-1-5"
+        },
+        {
+          "title": "Budoucnost straší na návsi",
+          "href": "OEBPS/Text/bar_priroda_011.xhtml#toc_marker-1-6"
+        }
+      ],
+      "href": "OEBPS/Text/bar_priroda_005.xhtml#toc_marker-1"
+    },
+    {
+      "title": "II Sám ale neporažen",
+      "children": [
+        {
+          "title": "Jak se v noci veršuje",
+          "href": "OEBPS/Text/bar_priroda_013.xhtml#toc_marker-2-1"
+        },
+        {
+          "title": "Nehlučný nálet",
+          "href": "OEBPS/Text/bar_priroda_014.xhtml#toc_marker-2-2"
+        },
+        {
+          "title": "Za pět minut dvanáct: všechno při starém",
+          "href": "OEBPS/Text/bar_priroda_015.xhtml#toc_marker-2-3"
+        },
+        {
+          "title": "Strašnice od jara do podzimu",
+          "href": "OEBPS/Text/bar_priroda_016.xhtml#toc_marker-2-4"
+        },
+        {
+          "title": "Je léto, jsem dospělý",
+          "href": "OEBPS/Text/bar_priroda_017.xhtml#toc_marker-2-5"
+        },
+        {
+          "title": "Věčný plenér I",
+          "href": "OEBPS/Text/bar_priroda_018.xhtml#toc_marker-2-6"
+        },
+        {
+          "title": "O středu dřív",
+          "href": "OEBPS/Text/bar_priroda_019.xhtml#toc_marker-2-7"
+        },
+        {
+          "title": "Vzpomínka na báseň-výlet",
+          "href": "OEBPS/Text/bar_priroda_020.xhtml#toc_marker-2-8"
+        },
+        {
+          "title": "Sám ale neporažen",
+          "href": "OEBPS/Text/bar_priroda_021.xhtml#toc_marker-2-9"
+        },
+        {
+          "title": "Večerní třesky blesky (čili Hadříky, problémy)",
+          "href": "OEBPS/Text/bar_priroda_022.xhtml#toc_marker-2-10"
+        },
+        {
+          "title": "Dvě minuty ticha za padlé dívky",
+          "href": "OEBPS/Text/bar_priroda_023.xhtml#toc_marker-2-11"
+        },
+        {
+          "title": "Pohlednice přírodě",
+          "href": "OEBPS/Text/bar_priroda_024.xhtml#toc_marker-2-12"
+        }
+      ],
+      "href": "OEBPS/Text/bar_priroda_012.xhtml#toc_marker-2"
+    },
+    {
+      "title": "III Hostinec pro dívky",
+      "children": [
+        {
+          "title": "Hostinec pro dívky",
+          "href": "OEBPS/Text/bar_priroda_026.xhtml#toc_marker-3-1"
+        },
+        {
+          "title": "Šeptem",
+          "href": "OEBPS/Text/bar_priroda_031.xhtml#toc_marker-3-2"
+        }
+      ],
+      "href": "OEBPS/Text/bar_priroda_025.xhtml#toc_marker-3"
+    },
+    {
+      "title": "IV Budeme čili České Budějovice",
+      "children": [
+        {
+          "title": "Slavobrána do krajiny",
+          "href": "OEBPS/Text/bar_priroda_033.xhtml#toc_marker-4-1"
+        },
+        {
+          "title": "Věčný plenér II",
+          "href": "OEBPS/Text/bar_priroda_034.xhtml#toc_marker-4-2"
+        },
+        {
+          "title": "Vzpomínka na špatně čitelnou báseň",
+          "href": "OEBPS/Text/bar_priroda_035.xhtml#toc_marker-4-3"
+        },
+        {
+          "title": "Deštná bez vody",
+          "href": "OEBPS/Text/bar_priroda_036.xhtml#toc_marker-4-4"
+        },
+        {
+          "title": "Malé a menší(čili Zbloudilé střely)",
+          "href": "OEBPS/Text/bar_priroda_037.xhtml#toc_marker-4-5"
+        },
+        {
+          "title": "Čitelně: dnes jasno",
+          "href": "OEBPS/Text/bar_priroda_038.xhtml#toc_marker-4-6"
+        },
+        {
+          "title": "Deset minut poesie",
+          "href": "OEBPS/Text/bar_priroda_039.xhtml#toc_marker-4-7"
+        },
+        {
+          "title": "…a vysoko nad laťkou hvězdy",
+          "href": "OEBPS/Text/bar_priroda_040.xhtml#toc_marker-4-8"
+        },
+        {
+          "title": "Průvodce budoucností",
+          "href": "OEBPS/Text/bar_priroda_041.xhtml#toc_marker-4-9"
+        },
+        {
+          "title": "Poránu, metr od pravdy",
+          "href": "OEBPS/Text/bar_priroda_042.xhtml#toc_marker-4-10"
+        },
+        {
+          "title": "K budoucím bicepsům",
+          "href": "OEBPS/Text/bar_priroda_043.xhtml#toc_marker-4-11"
+        },
+        {
+          "title": "Dovětek k dějinám",
+          "href": "OEBPS/Text/bar_priroda_044.xhtml#toc_marker-4-12"
+        },
+        {
+          "title": "Boží Lhota",
+          "href": "OEBPS/Text/bar_priroda_045.xhtml#toc_marker-4-13"
+        },
+        {
+          "title": "Hospoda U lidí",
+          "href": "OEBPS/Text/bar_priroda_046.xhtml#toc_marker-4-14"
+        },
+        {
+          "title": "Dodatek: Slovník hlavních výrazů",
+          "href": "OEBPS/Text/bar_priroda_047.xhtml#toc_marker-4-15"
+        }
+      ],
+      "href": "OEBPS/Text/bar_priroda_032.xhtml#toc_marker-4"
+    }
+  ]
+}

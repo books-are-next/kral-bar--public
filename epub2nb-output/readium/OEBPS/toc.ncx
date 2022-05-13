@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:e79fdc2b-546d-49d8-9f97-1fe0f39fbb6f" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Bar příroda</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>I Malé dějiny</text>
+      </navLabel>
+      <content src="Text/bar_priroda_005.xhtml#toc_marker-1"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>Soukromý hrad Mikuláše Medka</text>
+        </navLabel>
+        <content src="Text/bar_priroda_006.xhtml#toc_marker-1-1"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Malé dějiny (Příměří)</text>
+        </navLabel>
+        <content src="Text/bar_priroda_007.xhtml#toc_marker-1-2"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Kus textu</text>
+        </navLabel>
+        <content src="Text/bar_priroda_008.xhtml#toc_marker-1-3"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Epilog</text>
+        </navLabel>
+        <content src="Text/bar_priroda_009.xhtml#toc_marker-1-4"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Žluté nebezpečí</text>
+        </navLabel>
+        <content src="Text/bar_priroda_010.xhtml#toc_marker-1-5"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Budoucnost straší na návsi</text>
+        </navLabel>
+        <content src="Text/bar_priroda_011.xhtml#toc_marker-1-6"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>II Sám ale neporažen</text>
+      </navLabel>
+      <content src="Text/bar_priroda_012.xhtml#toc_marker-2"/>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Jak se v noci veršuje</text>
+        </navLabel>
+        <content src="Text/bar_priroda_013.xhtml#toc_marker-2-1"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Nehlučný nálet</text>
+        </navLabel>
+        <content src="Text/bar_priroda_014.xhtml#toc_marker-2-2"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Za pět minut dvanáct: všechno při starém</text>
+        </navLabel>
+        <content src="Text/bar_priroda_015.xhtml#toc_marker-2-3"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Strašnice od jara do podzimu</text>
+        </navLabel>
+        <content src="Text/bar_priroda_016.xhtml#toc_marker-2-4"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Je léto, jsem dospělý</text>
+        </navLabel>
+        <content src="Text/bar_priroda_017.xhtml#toc_marker-2-5"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Věčný plenér I</text>
+        </navLabel>
+        <content src="Text/bar_priroda_018.xhtml#toc_marker-2-6"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>O středu dřív</text>
+        </navLabel>
+        <content src="Text/bar_priroda_019.xhtml#toc_marker-2-7"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>Vzpomínka na báseň-výlet</text>
+        </navLabel>
+        <content src="Text/bar_priroda_020.xhtml#toc_marker-2-8"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Sám ale neporažen</text>
+        </navLabel>
+        <content src="Text/bar_priroda_021.xhtml#toc_marker-2-9"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Večerní třesky blesky (čili Hadříky, problémy)</text>
+        </navLabel>
+        <content src="Text/bar_priroda_022.xhtml#toc_marker-2-10"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Dvě minuty ticha za padlé dívky</text>
+        </navLabel>
+        <content src="Text/bar_priroda_023.xhtml#toc_marker-2-11"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Pohlednice přírodě</text>
+        </navLabel>
+        <content src="Text/bar_priroda_024.xhtml#toc_marker-2-12"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>III Hostinec pro dívky</text>
+      </navLabel>
+      <content src="Text/bar_priroda_025.xhtml#toc_marker-3"/>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>Hostinec pro dívky</text>
+        </navLabel>
+        <content src="Text/bar_priroda_026.xhtml#toc_marker-3-1"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>Šeptem</text>
+        </navLabel>
+        <content src="Text/bar_priroda_031.xhtml#toc_marker-3-2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>IV Budeme čili České Budějovice</text>
+      </navLabel>
+      <content src="Text/bar_priroda_032.xhtml#toc_marker-4"/>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Slavobrána do krajiny</text>
+        </navLabel>
+        <content src="Text/bar_priroda_033.xhtml#toc_marker-4-1"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Věčný plenér II</text>
+        </navLabel>
+        <content src="Text/bar_priroda_034.xhtml#toc_marker-4-2"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Vzpomínka na špatně čitelnou báseň</text>
+        </navLabel>
+        <content src="Text/bar_priroda_035.xhtml#toc_marker-4-3"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Deštná bez vody</text>
+        </navLabel>
+        <content src="Text/bar_priroda_036.xhtml#toc_marker-4-4"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Malé a menší(čili Zbloudilé střely)</text>
+        </navLabel>
+        <content src="Text/bar_priroda_037.xhtml#toc_marker-4-5"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Čitelně: dnes jasno</text>
+        </navLabel>
+        <content src="Text/bar_priroda_038.xhtml#toc_marker-4-6"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>Deset minut poesie</text>
+        </navLabel>
+        <content src="Text/bar_priroda_039.xhtml#toc_marker-4-7"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>…a vysoko nad laťkou hvězdy</text>
+        </navLabel>
+        <content src="Text/bar_priroda_040.xhtml#toc_marker-4-8"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Průvodce budoucností</text>
+        </navLabel>
+        <content src="Text/bar_priroda_041.xhtml#toc_marker-4-9"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Poránu, metr od pravdy</text>
+        </navLabel>
+        <content src="Text/bar_priroda_042.xhtml#toc_marker-4-10"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>K budoucím bicepsům</text>
+        </navLabel>
+        <content src="Text/bar_priroda_043.xhtml#toc_marker-4-11"/>
+      </navPoint>
+      <navPoint id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>Dovětek k dějinám</text>
+        </navLabel>
+        <content src="Text/bar_priroda_044.xhtml#toc_marker-4-12"/>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>Boží Lhota</text>
+        </navLabel>
+        <content src="Text/bar_priroda_045.xhtml#toc_marker-4-13"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>Hospoda U lidí</text>
+        </navLabel>
+        <content src="Text/bar_priroda_046.xhtml#toc_marker-4-14"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>Dodatek: Slovník hlavních výrazů</text>
+        </navLabel>
+        <content src="Text/bar_priroda_047.xhtml#toc_marker-4-15"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
