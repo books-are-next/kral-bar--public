@@ -1,7 +1,6 @@
 ---
+title: IIIHostinecpro dívky
 contentType: prose
 ---
 
-III  
-Hostinec  
-pro dívky
+

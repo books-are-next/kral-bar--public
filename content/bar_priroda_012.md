@@ -1,8 +1,6 @@
 ---
+title: IISámaleneporažen
 contentType: prose
 ---
 
-II  
-Sám  
-ale  
-neporažen
+
