@@ -1,4 +1,5 @@
 ---
+title: ''
 contentType: prose
 ---
 
@@ -135,4 +136,4 @@ Výlet: do lesa pro zrcadlo.
 
 Zrcadlo, čili konec světa.
 
-[2](./resources/undefined) Až se přesunu do Francie, najdu tu ten nápad skutečně realizován.
+_[2](./resources/undefined) Až se přesunu do Francie, najdu tu ten nápad skutečně realizován._

@@ -1,4 +1,5 @@
 ---
+title: ''
 contentType: prose
 ---
 
@@ -112,4 +113,4 @@ k hrozivým bradám kozáků
 
 pozvolna vystupujícím z kopřiv tam za ohradou
 
-(Plzeň, 1961)
+> _(Plzeň, 1961)_

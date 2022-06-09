@@ -1,4 +1,5 @@
 ---
+title: ''
 contentType: prose
 ---
 
@@ -10,5 +11,5 @@ Budoucnost
 
 Petr Král
 
-Básně o lidech  
-1961–1967
+_Básně o lidech  
+1961–1967_
