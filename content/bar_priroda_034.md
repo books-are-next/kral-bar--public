@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Věčný plenér II
 
 Na odpovídajícím místě v krajině
@@ -62,3 +64,5 @@ Večer u lesa na odpovídajícím místě
 úspěšně se opět stmívá nad boudou
 
 sbitou z pražských klacků
+
+</section>

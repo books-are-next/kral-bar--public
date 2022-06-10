@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 …a vysoko nad laťkou hvězdy
 
 Noc a ke všemu říjnová
@@ -111,3 +113,5 @@ na svá první zklamání
 než zmizí na obzoru do praktického života
 
 Pak už jen vyzuté boty lidí před prahy domů
+
+</section>

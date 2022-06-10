@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Žluté nebezpečí
 
 Ale ty malé pevné drny jen stěží rozeznatelné  
@@ -29,3 +31,5 @@ v zahradnictvích na kraji Prahy
 Bude nebude
 
 nepřestaneme s nimi válčit ve svých představách
+
+</section>

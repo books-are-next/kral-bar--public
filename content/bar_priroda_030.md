@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 5
 
 Karlovi Š.
@@ -12,3 +14,5 @@ Karlovi Š.
 > Až uhodí léto, změní se toho ostatně víc. Nová vláda se svlékla do plavek a vzhůru na slunce. Nahradit větou: „Pod neposkvr­něným nebem ležely na slunci zbrusu nové dudy.“ – Málem bych zapomněl. Ano, každý má také něco, co mu je nejdražší. Hrouží se do sebe, dlouze přemítají a nechávají předměty své obliby za­růstat břečťanem. Někteří z nich už by teď měli mít našetřeno na hoblík. V tom se ovšem mýlí: pokud jde o hoblík, bude jednou zdobit můj vlastní náhrobek. – Vyšel jsem si na procházku v doprovodu nového mraku. Jen jsem však ušel pár kroků, začly se z pytle nade mnou sypat piliny… Zatnout zuby a hledat ústraní. Na jedné z nejstinnějších stránek lesa, dole u cesty, se krčí v borůvčí zmačkaná noční čepice. Tu mi pak připište k dobru. A vnitřek staré kůlny; když se tam konečně dobelhám a přirazím vrata, poslední z lidí, ubohý zestárlý mládek, zašátrá ochable zvenčí po klice a sveze se na práh, rovnou na svou zlámanou grešli. Zastrčím závoru a rozhlédnu se kolem: kam oko dohlédne, nekonečné hromady pilin. Jako obvykle mít zas před sebou všechny slasti podrobného studia…
 
 > _(Také všechny následující kapitoly jsou střídavě věnovány Ale­šovi K. a Karlovi Š.)_
+
+</section>

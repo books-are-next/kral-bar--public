@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Budoucnost straší na návsi
 
 Prokopovi se Standou
@@ -114,3 +116,5 @@ k hrozivým bradám kozáků
 pozvolna vystupujícím z kopřiv tam za ohradou
 
 > _(Plzeň, 1961)_
+
+</section>

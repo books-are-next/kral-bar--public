@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Epilog
 
 Zbrusu nový monolit padlý na malou pevnost
@@ -48,3 +50,5 @@ nebýt slabého uříznutí asi vprostřed pásku nevěděl
 jsem dodnes
 
 že nejsem sám kdo tu čeká na povely
+
+</section>

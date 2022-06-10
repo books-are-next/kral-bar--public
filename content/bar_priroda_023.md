@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Dvě minuty ticha za padlé dívky
 
 Slunce upřeně svítilo na tiky v obličejích lidí
@@ -93,3 +95,5 @@ Jsem tu pořád to se ví
 ruka hbitě vzlétne k hlavě
 
 desetník na čele byl naneštěstí znovu jen třpytivá vidina
+
+</section>

@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Deset minut poesie
 
 Všem
@@ -440,3 +442,5 @@ už si to dopovím sám
 přísahám
 
 nikdy bych nezavolal o pomoc jen ze špásu
+
+</section>

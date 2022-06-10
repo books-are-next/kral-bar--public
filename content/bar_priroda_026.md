@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Hostinec pro dívky
 
 1
@@ -20,3 +22,5 @@ TŘETÍ DĚLNÍK (zlověstně se dusí): Je na vás pohled! Rád bych vás vidě
 > Těch několik minut prodlevy vyplněné neužitečným dialogem, zdánlivě bezvýznamná trapnost předčasného příchodu, bylo na­konec románu osudných; nikdy se mu nepodařilo přelézt přes první kapitolu, ta se rozbujela a rozplizla po celé knize, až ji v sobě nakonec pohřbila.
 
 > Ještě pořád tu nejsi. Kdybych si mohl alespoň být jistý, že si to pořádně rozmyslíš, než přijdeš. Ale dívky takové nebývají: všechno, co je vidět, když se opravdu svléknou, je nahý malí­ček v rozpačitě pootevřené puse. – Vyndal jsem malíček z úst a roz­hlédl se po okolních metropolích: veškerá erotika, všechna politika jako by zmizely navždy. Zbyli jen lidé. Otevřel jsem nejbližší dvouřadové sako a vstoupil dovnitř. – V Českých Budě­jovicích prší jako v New Yorku. – Zítra bude třeba udělat aspoň jednu stránku chyb navíc. Snad mi kamarádi pomohou. Dlouze a mlčky kouřit otcovy cigarety a dívat se, jak kolem proudí cyklisté v německých gumácích jako ve filmovém žurnálu. Potom podrobný zápis do notesu; dvakrát, třikrát se rozhlédnout, než vybalíme ze sáčku nedojedenou housku a poprvé a naposled, za důkladného žvýkání, si před spaním pořádně prohlédneme vlastní fotografii.
+
+</section>
