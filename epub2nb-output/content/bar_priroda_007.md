@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Malé dějiny (Příměří)
 
 Cvičné hovno zapadlo do zažloutlé stepi
@@ -33,3 +35,5 @@ co pamatuju nosím tu tak po kapsách svou pevnou
 kostku lihu
 
 svůj stále víc unavený materiál
+
+</section>

@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Dodatek:  
 Slovník hlavních výrazů
 
@@ -137,3 +139,5 @@ Výlet: do lesa pro zrcadlo.
 Zrcadlo, čili konec světa.
 
 _[2](./resources/undefined) Až se přesunu do Francie, najdu tu ten nápad skutečně realizován._
+
+</section>

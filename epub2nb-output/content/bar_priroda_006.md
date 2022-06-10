@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Soukromý hrad Mikuláše Medka
 
 Drobné nehody plísně na stěnách díry
@@ -80,3 +82,5 @@ stařecké krahujce z vyrudlých státních znaků
 Když pak odlétali nasyceni na hliněnou věž
 
 Mikuláš už je vyhlížel ze střílny
+
+</section>

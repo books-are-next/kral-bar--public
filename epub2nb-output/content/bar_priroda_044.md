@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Dovětek k dějinám
 
 Lidé se rozcházeli lehce znervoznělí
@@ -239,3 +241,5 @@ hodině kdy se změním v hrobníka a kdy tu definitivně
 pohřbím
 
 své staré křusky
+
+</section>

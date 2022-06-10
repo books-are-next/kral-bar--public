@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Strašnice od jara do podzimu
 
 Popišme nejprve krajinu:
@@ -152,3 +154,5 @@ v mé pracovně se činí celé Východoslovenské železárny
 srdce už klepe u sousedů na dveře
 
 jen v textu je pořád stejné ticho
+
+</section>

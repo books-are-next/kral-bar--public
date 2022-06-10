@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla [Bar Příroda čili Budoucnost 5 km](https://search.mlp.cz/cz/titul/bar-priroda-cili-budoucnost-5-km/2498083/) tak, jak vyšlo v definitivní verzi v prvním svazku autorových Sebraných básní, Větrné mlýny, Brno, 2013. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 **§**
@@ -15,6 +17,10 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Verze 1.0 z 20. 11. 2019.
 
-  
+</section>
+
+<section>
 
 ![image002.jpg](./resources/image002_fmt.jpeg)
+
+</section>

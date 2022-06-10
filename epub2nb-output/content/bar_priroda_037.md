@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Malé a menší  
 (čili Zbloudilé střely)
 
@@ -202,3 +204,5 @@ Krajina: flinta odhozená na kraj žitného lánu, opodál skřivánek oždibuje
 Houpačka s vysněnou jitrnicí se houpá od Šumavy k Tatrám.
 
 Dámy s čerstvou trvalou přicházejí poděkovat pánům za dějiny: ano, bylo to moc hezké, jen bychom nerady, kdyby se to opakovalo.
+
+</section>

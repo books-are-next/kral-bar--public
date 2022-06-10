@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 O středu dřív
 
 Mluvíme všichni pravdu
@@ -26,3 +28,5 @@ stačí zavolat
 na slunci kde je tak pěkně vidět do proslulé truhly
 
 plné všech našich kravat
+
+</section>
