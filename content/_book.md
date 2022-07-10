@@ -13,6 +13,7 @@ meta:
   edition: poezie
   publisherShort: mkp
   contentType: poetry
+  subtitle: čili Budoucnost 5 km
 readingOrder:
   - promo.html
   - bar_priroda_001.html

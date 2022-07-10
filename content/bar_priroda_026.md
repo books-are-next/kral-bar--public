@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-## 1
+1
 
 _Karlovi Š._
 

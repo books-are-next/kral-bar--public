@@ -113,7 +113,7 @@ Skleněné dlaně přes které šprtají svá slovíčka
 
 včas ukořistěné chvíli před tím než spadly první kapky
 
-## —
+—
 
 Dodnes se toho ani tolik nesnědlo
 
@@ -239,7 +239,7 @@ a střežit ji vprostřed dvorku s pevnou nadějí
 
 že se sem jednou všichni vrátí zpátky
 
-## —
+—
 
 Zatím jenom úplně normální krávy táhnou šerem  
 soumrakem neúprosně pokračujícího přemítání
