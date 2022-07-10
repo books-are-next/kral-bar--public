@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: …a vysoko nad laťkou hvězdy
+contentType: poetry
 ---
 
 <section>
-
-…a vysoko nad laťkou hvězdy
 
 Noc a ke všemu říjnová
 

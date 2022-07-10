@@ -1,13 +1,11 @@
 ---
-title: ''
-contentType: prose
+title: 'Čitelně: dnes jasno'
+contentType: poetry
 ---
 
 <section>
 
-Čitelně: dnes jasno
-
-Vráťovi
+_Vráťovi_
 
 Pondělí
 

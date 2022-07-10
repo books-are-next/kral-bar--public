@@ -1,6 +1,6 @@
 ---
 title: IIIHostinecpro dívky
-contentType: prose
+contentType: poetry
 ---
 
 

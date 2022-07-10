@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Věčný plenér I
+contentType: poetry
 ---
 
 <section>
-
-Věčný plenér I
 
 Ano
 

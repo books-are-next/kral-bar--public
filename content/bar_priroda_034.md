@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Věčný plenér II
+contentType: poetry
 ---
 
 <section>
-
-Věčný plenér II
 
 Na odpovídajícím místě v krajině
 

@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Vzpomínka na báseň-výlet
+contentType: poetry
 ---
 
 <section>
-
-Vzpomínka na báseň-výlet
 
 Jedna z mých nejzdařilejších básní se zabývala mým  
 nápadným odporem k poesii

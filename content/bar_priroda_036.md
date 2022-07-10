@@ -1,13 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: Deštná bez vody
+contentType: poetry
 ---
-
-<section>
-
-Deštná bez vody
-
-</section>
 
 <section>
 

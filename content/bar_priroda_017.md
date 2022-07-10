@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Je léto, jsem dospělý
+contentType: poetry
 ---
 
 <section>
-
-Je léto, jsem dospělý
 
 Doleva ke středníku a doprava k pomlčce
 

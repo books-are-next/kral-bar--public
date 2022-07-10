@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Žluté nebezpečí
+contentType: poetry
 ---
 
 <section>
-
-Žluté nebezpečí
 
 Ale ty malé pevné drny jen stěží rozeznatelné  
 při pohledu na letní krajinu

@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Nehlučný nálet
+contentType: poetry
 ---
 
 <section>
-
-Nehlučný nálet
 
 Tohle zcela srozumitelné vyprávění
 

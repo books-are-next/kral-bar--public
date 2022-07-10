@@ -1,13 +1,11 @@
 ---
-title: ''
-contentType: prose
+title: Deset minut poesie
+contentType: poetry
 ---
 
 <section>
 
-Deset minut poesie
-
-Všem
+_Všem_
 
 Nejdůležitější se mi vždycky zdálo odcestovat hned  
 na začátku básně
@@ -151,7 +149,7 @@ se rozhlížím
 
 ani v téhle básni jsem tedy neměl být upálen
 
-—
+## —
 
 Lze zkrátka pořád ještě o lecčem hovořit stále hlasitěji  
 citovat minulá vyprávění
@@ -304,7 +302,7 @@ z přírody
 
 nebo naopak
 
-—
+## —
 
 Na závěť je toho pořád málo na pouhý aforismus už zas  
 příliš mnoho

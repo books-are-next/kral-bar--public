@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Dovětek k dějinám
+contentType: poetry
 ---
 
 <section>
-
-Dovětek k dějinám
 
 Lidé se rozcházeli lehce znervoznělí
 

@@ -1,6 +1,6 @@
 ---
 title: IMalédějiny
-contentType: prose
+contentType: poetry
 ---
 
 

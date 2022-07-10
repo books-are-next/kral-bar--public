@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Hospoda U lidí
+contentType: poetry
 ---
 
 <section>
-
-Hospoda U lidí
 
 Rád si představuju pod klobouky pánů budíky jež staví  
 na odiv

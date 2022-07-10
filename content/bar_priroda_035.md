@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Vzpomínka na špatně čitelnou báseň
+contentType: poetry
 ---
 
 <section>
-
-Vzpomínka na špatně čitelnou báseň
 
 Báseň na kterou vzpomínám snad nejraději a které  
 dodnes říkám „Vrána“

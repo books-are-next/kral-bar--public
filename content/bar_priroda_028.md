@@ -1,13 +1,13 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-3
+## 3
 
-Karlovi Š.
+_Karlovi Š._
 
 > Pondělí a mraky. Když do svítání ještě chybí dva tři verše, když do oběda schází jeden dva srdeční záchvaty, když už nás od soumraku dělí jen zahvízdnutí v nose nad ospalou kořistí, když pak o půlnoci defilují na protější střeše malátní apoštolové, uprostřed napůl splasklých holubů velikosti prasat – jak po­kračovat dál? Když do odchodu nejbližších přátel z našich postelí chybí už jen dvě nebo tři nenapravitelná nedopatření, zatímco Severní Amerika je dál než strašná čepice, vedle níž jsme usnuli a která ve sliznatém úsvitu rodí nesnesitelně pomalu další čepici… – Patřím k lidem, kteří dovedou ve spán­ku probdít celou noc, na stráži před svou vlastní páteří. Střežím se; bravo. Začínám při­kládat hlubší význam i tomu, že jsem se nenarodil mezi řezníky, ale mezi samými lékaři. Svou budoucí svatbu si zas představuju jako den, kdy si obléknu otcův bílý plášť a zavolám sestru z komory. – Prokousat se hromadou knih jen proto, abychom na vývěsní štít na domě připsali pod své jméno pří­vlastek „filosof“… a vrátili se za výčepní pult, očekávat první návštěvnice. – V létě k nám krátce zavítaly dějiny. Líný pramínek protékal vylidně­nými uličkami až na náměstí; tam už byl očekáván nehybným policajtem, strnulým v obklíčení mezi vraty nedobytných hospod. Teď je jasná zimní noc, z bubnu se drápou ven příští mláďata a jen v daleké Jilemnici nehybně ční vprostřed náměstí bílý pomník Karla Š., zalitý měsíčním světlem.
 

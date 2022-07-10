@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Soukromý hrad Mikuláše Medka
+contentType: poetry
 ---
 
 <section>
-
-Soukromý hrad Mikuláše Medka
 
 Drobné nehody plísně na stěnách díry
 

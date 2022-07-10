@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Strašnice od jara do podzimu
+contentType: poetry
 ---
 
 <section>
-
-Strašnice od jara do podzimu
 
 Popišme nejprve krajinu:
 

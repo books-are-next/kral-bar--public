@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Kus textu
+contentType: poetry
 ---
 
 <section>
-
-Kus textu
 
 …šeredné vyhlídky do staré omítky
 

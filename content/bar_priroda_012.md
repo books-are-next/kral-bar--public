@@ -1,6 +1,6 @@
 ---
 title: IISámaleneporažen
-contentType: prose
+contentType: poetry
 ---
 
 

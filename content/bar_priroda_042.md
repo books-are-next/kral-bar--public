@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Poránu, metr od pravdy
+contentType: poetry
 ---
 
 <section>
-
-Poránu, metr od pravdy
 
 V jasnějších chvílích kdy jsme viděli dál než na špičku  
 svého nosu

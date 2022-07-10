@@ -1,15 +1,13 @@
 ---
-title: ''
-contentType: prose
+title: Hostinec pro dívky
+contentType: poetry
 ---
 
 <section>
 
-Hostinec pro dívky
+## 1
 
-1
-
-Karlovi Š.
+_Karlovi Š._
 
 > Bude asi nejlepší odbýt si to hlavní hned na začátku a začít krátkou rekapitulací celého románu. Pokud se nemýlím, kdosi šel po něčem, zřejmě cesta, na konci prkna ho něco mělo čekat. Jako by ale přišel příliš brzy – místo krásného západu slunce jen mrzutý dialog, několik ledabylých pomluv na účet nebeského rajčete:
 
