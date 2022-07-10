@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Jak se v noci veršuje
+contentType: poetry
 ---
 
 <section>
-
-Jak se v noci veršuje
 
 Až doteď noc se podobala noci stačilo začít u „a“
 

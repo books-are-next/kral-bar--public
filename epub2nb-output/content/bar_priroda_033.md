@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Slavobrána do krajiny
+contentType: poetry
 ---
 
 <section>
-
-Slavobrána do krajiny
 
 Mechové polstrování lesních kuřáren
 

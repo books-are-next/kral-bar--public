@@ -1,13 +1,13 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-4
+## 4
 
-Alešovi K.
+_Alešovi K._
 
 > Tklivý příběh malíře, který tak dlouho váhal mezi malováním a hospodou, až se rozhodl malovat výhradně hostinské; uvěz­něný mezi dvojici sličných uvozovek. – Představuji si, že na pólu se jednotliví dobyvatelé, přinášející svou trošku na oltář vědy, postupně vrství jeden na druhého jako dlaně ve známé hře, při níž ruce provádějí na stole (aniž by kdokoli ze zúčastněných ztratil svůj zdvořilý výraz) jakousi společenskou variantu hro­madné soulože. Ostatně, možná tomu tak je s lidmi vůbec: už se těšíme, jak se zděsíme té nebetyčné hromady, jen co se znovu vynoříme na náměstí. – Mraky plné zrní. Jak pozoruji, nedělalo mi sebemenší potíž ukrást tento obraz jednomu ze svých přátel. Kdybych měl ještě to, čemu se kdysi, v dobách dlouhých párků, veselých dělnických stávek a strašidelných budov reálných gym­názií říkalo svědomí, přikrýval bych se aspoň při psaní peřinou. Má postel však, běda, nehostí žádného spisovatele. Pod peřinou, od polštáře do nohou, stéká opatrně po prostěradle jen nehlučná a tenká stružka rtuti, stejně vyčítavá jako prázdná papírová páska zvolna odvíjená z telegrafního přístroje.
 

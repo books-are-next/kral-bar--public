@@ -1,14 +1,11 @@
 ---
-title: ''
-contentType: prose
+title: 'Za pět minut dvanáct: všechno při starém'
+contentType: poetry
 ---
 
 <section>
 
-Za pět minut dvanáct:  
-všechno při starém
-
-Standovi
+_Standovi_
 
 Má bezmezná píle nezaměnitelná s trpělivostí
 

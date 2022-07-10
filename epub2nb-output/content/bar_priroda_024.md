@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Pohlednice přírodě
+contentType: poetry
 ---
 
 <section>
-
-Pohlednice přírodě
 
 Byl červenec
 

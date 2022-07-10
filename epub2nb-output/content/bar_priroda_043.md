@@ -1,13 +1,11 @@
 ---
-title: ''
-contentType: prose
+title: K budoucím bicepsům
+contentType: poetry
 ---
 
 <section>
 
-K budoucím bicepsům
-
-Čechům
+_Čechům_
 
 Všechno co ještě v Čechách umí roztáhnout nohy letí  
 za moře

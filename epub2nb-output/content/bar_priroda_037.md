@@ -1,14 +1,11 @@
 ---
-title: ''
-contentType: prose
+title: Malé a menší(čili Zbloudilé střely)
+contentType: poetry
 ---
 
 <section>
 
-Malé a menší  
-(čili Zbloudilé střely)
-
-Samozřejmě Prokopovi
+_Samozřejmě Prokopovi_
 
 Zmoklí občané v uschlých ulicích.
 

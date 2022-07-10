@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Malé dějiny (Příměří)
+contentType: poetry
 ---
 
 <section>
-
-Malé dějiny (Příměří)
 
 Cvičné hovno zapadlo do zažloutlé stepi
 

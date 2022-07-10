@@ -1,0 +1,1166 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Bar Příroda",
+  "author": "Petr Král",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "kral-bar-priroda-3f2a6c0",
+  "revision": "3f2a6c0",
+  "readingOrder": [
+    "promo.html",
+    "bar_priroda_001.html",
+    "bar_priroda_002.html",
+    "bar_priroda_003.html",
+    "bar_priroda_004.html",
+    "bar_priroda_005.html",
+    "bar_priroda_006.html",
+    "bar_priroda_007.html",
+    "bar_priroda_008.html",
+    "bar_priroda_009.html",
+    "bar_priroda_010.html",
+    "bar_priroda_011.html",
+    "bar_priroda_012.html",
+    "bar_priroda_013.html",
+    "bar_priroda_014.html",
+    "bar_priroda_015.html",
+    "bar_priroda_016.html",
+    "bar_priroda_017.html",
+    "bar_priroda_018.html",
+    "bar_priroda_019.html",
+    "bar_priroda_020.html",
+    "bar_priroda_021.html",
+    "bar_priroda_022.html",
+    "bar_priroda_023.html",
+    "bar_priroda_024.html",
+    "bar_priroda_025.html",
+    "bar_priroda_026.html",
+    "bar_priroda_027.html",
+    "bar_priroda_028.html",
+    "bar_priroda_029.html",
+    "bar_priroda_030.html",
+    "bar_priroda_031.html",
+    "bar_priroda_032.html",
+    "bar_priroda_033.html",
+    "bar_priroda_034.html",
+    "bar_priroda_035.html",
+    "bar_priroda_036.html",
+    "bar_priroda_037.html",
+    "bar_priroda_038.html",
+    "bar_priroda_039.html",
+    "bar_priroda_040.html",
+    "bar_priroda_041.html",
+    "bar_priroda_042.html",
+    "bar_priroda_043.html",
+    "bar_priroda_044.html",
+    "bar_priroda_045.html",
+    "bar_priroda_046.html",
+    "bar_priroda_047.html",
+    "bar_priroda_048.html",
+    "bar_priroda_049.html",
+    "bar_priroda_050.html"
+  ],
+  "generatedAt": {
+    "date": "Sun Jul 10 2022 15:49:46 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657468186626
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "bar_priroda_001.html",
+      "toc": []
+    },
+    {
+      "title": "Bar Příroda",
+      "file": "bar_priroda_001.html",
+      "words": 1,
+      "chars": 0,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "bar_priroda_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bar Příroda",
+      "file": "bar_priroda_002.html",
+      "words": 1,
+      "chars": 0,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 2,
+      "prev": "bar_priroda_001.html",
+      "next": "bar_priroda_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bar Příroda",
+      "file": "bar_priroda_003.html",
+      "words": 12,
+      "chars": 61,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "bar_priroda_002.html",
+      "next": "bar_priroda_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bar Příroda",
+      "file": "bar_priroda_004.html",
+      "words": 103,
+      "chars": 666,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 4,
+      "prev": "bar_priroda_003.html",
+      "next": "bar_priroda_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IMalédějiny",
+      "file": "bar_priroda_005.html",
+      "words": 1,
+      "chars": 11,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 5,
+      "prev": "bar_priroda_004.html",
+      "next": "bar_priroda_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IMalédějiny",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Soukromý hrad Mikuláše Medka",
+      "file": "bar_priroda_006.html",
+      "words": 232,
+      "chars": 1526,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 6,
+      "prev": "bar_priroda_005.html",
+      "next": "bar_priroda_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Soukromý hrad Mikuláše Medka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Malé dějiny (Příměří)",
+      "file": "bar_priroda_007.html",
+      "words": 89,
+      "chars": 512,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 7,
+      "prev": "bar_priroda_006.html",
+      "next": "bar_priroda_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Malé dějiny (Příměří)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kus textu",
+      "file": "bar_priroda_008.html",
+      "words": 196,
+      "chars": 1079,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 8,
+      "prev": "bar_priroda_007.html",
+      "next": "bar_priroda_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kus textu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Epilog",
+      "file": "bar_priroda_009.html",
+      "words": 143,
+      "chars": 816,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 9,
+      "prev": "bar_priroda_008.html",
+      "next": "bar_priroda_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Epilog",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Žluté nebezpečí",
+      "file": "bar_priroda_010.html",
+      "words": 88,
+      "chars": 500,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 10,
+      "prev": "bar_priroda_009.html",
+      "next": "bar_priroda_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Žluté nebezpečí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Budoucnost straší na návsi",
+      "file": "bar_priroda_011.html",
+      "words": 394,
+      "chars": 2231,
+      "ideas": 64,
+      "role": "chapter",
+      "order": 11,
+      "prev": "bar_priroda_010.html",
+      "next": "bar_priroda_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Budoucnost straší na návsi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IISámaleneporažen",
+      "file": "bar_priroda_012.html",
+      "words": 1,
+      "chars": 17,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 12,
+      "prev": "bar_priroda_011.html",
+      "next": "bar_priroda_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IISámaleneporažen",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jak se v noci veršuje",
+      "file": "bar_priroda_013.html",
+      "words": 106,
+      "chars": 604,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 13,
+      "prev": "bar_priroda_012.html",
+      "next": "bar_priroda_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jak se v noci veršuje",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nehlučný nálet",
+      "file": "bar_priroda_014.html",
+      "words": 133,
+      "chars": 817,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 14,
+      "prev": "bar_priroda_013.html",
+      "next": "bar_priroda_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nehlučný nálet",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Za pět minut dvanáct: všechno při starém",
+      "file": "bar_priroda_015.html",
+      "words": 190,
+      "chars": 1079,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 15,
+      "prev": "bar_priroda_014.html",
+      "next": "bar_priroda_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Za pět minut dvanáct: všechno při starém",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Strašnice od jara do podzimu",
+      "file": "bar_priroda_016.html",
+      "words": 486,
+      "chars": 2969,
+      "ideas": 85,
+      "role": "chapter",
+      "order": 16,
+      "prev": "bar_priroda_015.html",
+      "next": "bar_priroda_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Strašnice od jara do podzimu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Je léto, jsem dospělý",
+      "file": "bar_priroda_017.html",
+      "words": 490,
+      "chars": 2855,
+      "ideas": 91,
+      "role": "chapter",
+      "order": 17,
+      "prev": "bar_priroda_016.html",
+      "next": "bar_priroda_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Je léto, jsem dospělý",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Věčný plenér I",
+      "file": "bar_priroda_018.html",
+      "words": 419,
+      "chars": 2361,
+      "ideas": 75,
+      "role": "chapter",
+      "order": 18,
+      "prev": "bar_priroda_017.html",
+      "next": "bar_priroda_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Věčný plenér I",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "O středu dřív",
+      "file": "bar_priroda_019.html",
+      "words": 75,
+      "chars": 398,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 19,
+      "prev": "bar_priroda_018.html",
+      "next": "bar_priroda_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O středu dřív",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzpomínka na báseň-výlet",
+      "file": "bar_priroda_020.html",
+      "words": 233,
+      "chars": 1374,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 20,
+      "prev": "bar_priroda_019.html",
+      "next": "bar_priroda_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vzpomínka na báseň-výlet",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sám ale neporažen",
+      "file": "bar_priroda_021.html",
+      "words": 686,
+      "chars": 4111,
+      "ideas": 114,
+      "role": "chapter",
+      "order": 21,
+      "prev": "bar_priroda_020.html",
+      "next": "bar_priroda_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sám ale neporažen",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Večerní třesky blesky (čili Hadříky, problémy)",
+      "file": "bar_priroda_022.html",
+      "words": 276,
+      "chars": 1648,
+      "ideas": 47,
+      "role": "chapter",
+      "order": 22,
+      "prev": "bar_priroda_021.html",
+      "next": "bar_priroda_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Večerní třesky blesky (čili Hadříky, problémy)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dvě minuty ticha za padlé dívky",
+      "file": "bar_priroda_023.html",
+      "words": 320,
+      "chars": 1885,
+      "ideas": 53,
+      "role": "chapter",
+      "order": 23,
+      "prev": "bar_priroda_022.html",
+      "next": "bar_priroda_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dvě minuty ticha za padlé dívky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pohlednice přírodě",
+      "file": "bar_priroda_024.html",
+      "words": 217,
+      "chars": 1285,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 24,
+      "prev": "bar_priroda_023.html",
+      "next": "bar_priroda_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pohlednice přírodě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IIIHostinecpro dívky",
+      "file": "bar_priroda_025.html",
+      "words": 2,
+      "chars": 20,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 25,
+      "prev": "bar_priroda_024.html",
+      "next": "bar_priroda_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IIIHostinecpro dívky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hostinec pro dívky",
+      "file": "bar_priroda_026.html",
+      "words": 270,
+      "chars": 1697,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 26,
+      "prev": "bar_priroda_025.html",
+      "next": "bar_priroda_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hostinec pro dívky",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bar Příroda",
+      "file": "bar_priroda_027.html",
+      "words": 217,
+      "chars": 1395,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 27,
+      "prev": "bar_priroda_026.html",
+      "next": "bar_priroda_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bar Příroda",
+      "file": "bar_priroda_028.html",
+      "words": 374,
+      "chars": 2298,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 28,
+      "prev": "bar_priroda_027.html",
+      "next": "bar_priroda_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "3",
+              "id": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bar Příroda",
+      "file": "bar_priroda_029.html",
+      "words": 361,
+      "chars": 2274,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 29,
+      "prev": "bar_priroda_028.html",
+      "next": "bar_priroda_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "4",
+              "id": "4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bar Příroda",
+      "file": "bar_priroda_030.html",
+      "words": 490,
+      "chars": 2923,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 30,
+      "prev": "bar_priroda_029.html",
+      "next": "bar_priroda_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "5",
+              "id": "5",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Šeptem",
+      "file": "bar_priroda_031.html",
+      "words": 320,
+      "chars": 2021,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 31,
+      "prev": "bar_priroda_030.html",
+      "next": "bar_priroda_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Šeptem",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IVBudeme čiliČeskéBudějovice",
+      "file": "bar_priroda_032.html",
+      "words": 2,
+      "chars": 28,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 32,
+      "prev": "bar_priroda_031.html",
+      "next": "bar_priroda_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IVBudeme čiliČeskéBudějovice",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Slavobrána do krajiny",
+      "file": "bar_priroda_033.html",
+      "words": 213,
+      "chars": 1240,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 33,
+      "prev": "bar_priroda_032.html",
+      "next": "bar_priroda_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Slavobrána do krajiny",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Věčný plenér II",
+      "file": "bar_priroda_034.html",
+      "words": 167,
+      "chars": 996,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 34,
+      "prev": "bar_priroda_033.html",
+      "next": "bar_priroda_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Věčný plenér II",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzpomínka na špatně čitelnou báseň",
+      "file": "bar_priroda_035.html",
+      "words": 193,
+      "chars": 1149,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 35,
+      "prev": "bar_priroda_034.html",
+      "next": "bar_priroda_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vzpomínka na špatně čitelnou báseň",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Deštná bez vody",
+      "file": "bar_priroda_036.html",
+      "words": 7,
+      "chars": 15,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 36,
+      "prev": "bar_priroda_035.html",
+      "next": "bar_priroda_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Deštná bez vody",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Malé a menší(čili Zbloudilé střely)",
+      "file": "bar_priroda_037.html",
+      "words": 761,
+      "chars": 4738,
+      "ideas": 100,
+      "role": "chapter",
+      "order": 37,
+      "prev": "bar_priroda_036.html",
+      "next": "bar_priroda_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Malé a menší(čili Zbloudilé střely)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Čitelně: dnes jasno",
+      "file": "bar_priroda_038.html",
+      "words": 239,
+      "chars": 1330,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 38,
+      "prev": "bar_priroda_037.html",
+      "next": "bar_priroda_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Čitelně: dnes jasno",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Deset minut poesie",
+      "file": "bar_priroda_039.html",
+      "words": 1567,
+      "chars": 8999,
+      "ideas": 257,
+      "role": "chapter",
+      "order": 39,
+      "prev": "bar_priroda_038.html",
+      "next": "bar_priroda_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Deset minut poesie",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "—",
+              "id": "heading",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "—",
+              "id": "heading-1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "…a vysoko nad laťkou hvězdy",
+      "file": "bar_priroda_040.html",
+      "words": 410,
+      "chars": 2386,
+      "ideas": 64,
+      "role": "chapter",
+      "order": 40,
+      "prev": "bar_priroda_039.html",
+      "next": "bar_priroda_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "…a vysoko nad laťkou hvězdy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Průvodce budoucností",
+      "file": "bar_priroda_041.html",
+      "words": 1286,
+      "chars": 7682,
+      "ideas": 207,
+      "role": "chapter",
+      "order": 41,
+      "prev": "bar_priroda_040.html",
+      "next": "bar_priroda_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Průvodce budoucností",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "—",
+              "id": "heading",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "—",
+              "id": "heading-1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Poránu, metr od pravdy",
+      "file": "bar_priroda_042.html",
+      "words": 301,
+      "chars": 1707,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 42,
+      "prev": "bar_priroda_041.html",
+      "next": "bar_priroda_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poránu, metr od pravdy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "K budoucím bicepsům",
+      "file": "bar_priroda_043.html",
+      "words": 209,
+      "chars": 1268,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 43,
+      "prev": "bar_priroda_042.html",
+      "next": "bar_priroda_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "K budoucím bicepsům",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dovětek k dějinám",
+      "file": "bar_priroda_044.html",
+      "words": 865,
+      "chars": 4945,
+      "ideas": 132,
+      "role": "chapter",
+      "order": 44,
+      "prev": "bar_priroda_043.html",
+      "next": "bar_priroda_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dovětek k dějinám",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Boží Lhota",
+      "file": "bar_priroda_045.html",
+      "words": 350,
+      "chars": 2090,
+      "ideas": 61,
+      "role": "chapter",
+      "order": 45,
+      "prev": "bar_priroda_044.html",
+      "next": "bar_priroda_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Boží Lhota",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hospoda U lidí",
+      "file": "bar_priroda_046.html",
+      "words": 232,
+      "chars": 1297,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 46,
+      "prev": "bar_priroda_045.html",
+      "next": "bar_priroda_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hospoda U lidí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dodatek: Slovník hlavních výrazů",
+      "file": "bar_priroda_047.html",
+      "words": 405,
+      "chars": 2570,
+      "ideas": 67,
+      "role": "chapter",
+      "order": 47,
+      "prev": "bar_priroda_046.html",
+      "next": "bar_priroda_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dodatek: Slovník hlavních výrazů",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poznámka",
+      "file": "bar_priroda_048.html",
+      "words": 108,
+      "chars": 727,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 48,
+      "prev": "bar_priroda_047.html",
+      "next": "bar_priroda_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poznámka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bar Příroda",
+      "file": "bar_priroda_049.html",
+      "words": 70,
+      "chars": 446,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 49,
+      "prev": "bar_priroda_048.html",
+      "next": "bar_priroda_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bar Příroda",
+      "file": "bar_priroda_050.html",
+      "words": 49,
+      "chars": 327,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 50,
+      "prev": "bar_priroda_049.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 14367,
+      "chars": 85407,
+      "ideas": 2055
+    },
+    "chapters": {
+      "words": 14360,
+      "chars": 85373,
+      "ideas": 2050
+    }
+  }
+}

@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Epilog
+contentType: poetry
 ---
 
 <section>
-
-Epilog
 
 Zbrusu nový monolit padlý na malou pevnost
 

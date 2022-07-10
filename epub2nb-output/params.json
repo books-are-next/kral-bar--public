@@ -1,16 +1,20 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
       "title": "Bar Příroda",
       "identifier": "urn:uuid:e79fdc2b-546d-49d8-9f97-1fe0f39fbb6f",
       "author": "Petr Král",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2019-11-21T00:00:00.000Z"
+      "modified": "2019-11-21T00:00:00.000Z",
+      "edition": "poezie",
+      "publisherShort": "mkp",
+      "contentType": "poetry"
     },
     "elements": {
-      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
+      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL\nMLP-UROVEN2-BAR-PRIRODA",
       "subtitle": "",
-      "h2": "MLP.uroven3.nadpis.*\nMLP.UROVEN3.*\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasne\nmlpuroven3.*",
+      "h2": "MLP.uroven3.nadpis.*\nMLP.UROVEN3.*\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasne\nmlpuroven3.*\nMLP-uroven3-basne",
       "h3": "MLP.uroven4.nadpis\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasnebezodstrankovani",
       "h4": "MLP.uroven5.nadpis",
       "hr": "MLP.hvezdicky\ne.bookhvezdickystred",
@@ -20,11 +24,11 @@
       "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
       "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
-      "centered": ".*uprostred.*",
       "figure": "MLP.obrazky.*\nmlpobrazky",
-      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
+      "centered": ".*uprostred.*",
+      "verse": "MLP.verse.*\nMLP-VERSE-BAR-PRIRODA\nMLP-VERSE-BAR-PRIRODA-12b-pred",
+      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei\nMLP-BAR-VENOVANI",
       "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
-      "verse": "MLP.verse.*",
       "remove": "",
       "ignore": ""
     },
@@ -32,6 +36,7 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "bar_priroda_001.md",
@@ -42,7 +47,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_002.md",
@@ -53,7 +59,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_003.md",
@@ -64,7 +71,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_004.md",
@@ -75,7 +83,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_005.md",
@@ -86,7 +95,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_006.md",
@@ -97,7 +107,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_007.md",
@@ -108,7 +119,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_008.md",
@@ -119,7 +131,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_009.md",
@@ -130,7 +143,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_010.md",
@@ -141,7 +155,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_011.md",
@@ -152,7 +167,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_012.md",
@@ -163,7 +179,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_013.md",
@@ -174,7 +191,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_014.md",
@@ -185,7 +203,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_015.md",
@@ -196,7 +215,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_016.md",
@@ -207,7 +227,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_017.md",
@@ -218,7 +239,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_018.md",
@@ -229,7 +251,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_019.md",
@@ -240,7 +263,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_020.md",
@@ -251,7 +275,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_021.md",
@@ -262,7 +287,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_022.md",
@@ -273,7 +299,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_023.md",
@@ -284,7 +311,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_024.md",
@@ -295,7 +323,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_025.md",
@@ -306,7 +335,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_026.md",
@@ -317,7 +347,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_027.md",
@@ -328,7 +359,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_028.md",
@@ -339,7 +371,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_029.md",
@@ -350,7 +383,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_030.md",
@@ -361,7 +395,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_031.md",
@@ -372,7 +407,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_032.md",
@@ -383,7 +419,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_033.md",
@@ -394,7 +431,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_034.md",
@@ -405,7 +443,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_035.md",
@@ -416,7 +455,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_036.md",
@@ -427,7 +467,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_037.md",
@@ -438,7 +479,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_038.md",
@@ -449,7 +491,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_039.md",
@@ -460,7 +503,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_040.md",
@@ -471,7 +515,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_041.md",
@@ -482,7 +527,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_042.md",
@@ -493,7 +539,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_043.md",
@@ -504,7 +551,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_044.md",
@@ -515,7 +563,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_045.md",
@@ -526,7 +575,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_046.md",
@@ -537,7 +587,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_047.md",
@@ -548,7 +599,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_048.md",
@@ -559,7 +611,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_049.md",
@@ -570,7 +623,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "bar_priroda_050.md",
@@ -581,7 +635,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -627,37 +682,37 @@
         "xhtml": "bar_priroda_005.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Soukromý hrad Mikuláše Medka",
         "subtitleSuggest": "",
         "filename": "bar_priroda_006.md",
         "xhtml": "bar_priroda_006.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Malé dějiny (Příměří)",
         "subtitleSuggest": "",
         "filename": "bar_priroda_007.md",
         "xhtml": "bar_priroda_007.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kus textu",
         "subtitleSuggest": "",
         "filename": "bar_priroda_008.md",
         "xhtml": "bar_priroda_008.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Epilog",
         "subtitleSuggest": "",
         "filename": "bar_priroda_009.md",
         "xhtml": "bar_priroda_009.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Žluté nebezpečí",
         "subtitleSuggest": "",
         "filename": "bar_priroda_010.md",
         "xhtml": "bar_priroda_010.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Budoucnost straší na návsi",
         "subtitleSuggest": "",
         "filename": "bar_priroda_011.md",
         "xhtml": "bar_priroda_011.xhtml"
@@ -669,73 +724,73 @@
         "xhtml": "bar_priroda_012.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jak se v noci veršuje",
         "subtitleSuggest": "",
         "filename": "bar_priroda_013.md",
         "xhtml": "bar_priroda_013.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Nehlučný nálet",
         "subtitleSuggest": "",
         "filename": "bar_priroda_014.md",
         "xhtml": "bar_priroda_014.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Za pět minut dvanáct: všechno při starém",
         "subtitleSuggest": "",
         "filename": "bar_priroda_015.md",
         "xhtml": "bar_priroda_015.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Strašnice od jara do podzimu",
         "subtitleSuggest": "",
         "filename": "bar_priroda_016.md",
         "xhtml": "bar_priroda_016.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Je léto, jsem dospělý",
         "subtitleSuggest": "",
         "filename": "bar_priroda_017.md",
         "xhtml": "bar_priroda_017.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Věčný plenér I",
         "subtitleSuggest": "",
         "filename": "bar_priroda_018.md",
         "xhtml": "bar_priroda_018.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "O středu dřív",
         "subtitleSuggest": "",
         "filename": "bar_priroda_019.md",
         "xhtml": "bar_priroda_019.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Vzpomínka na báseň-výlet",
         "subtitleSuggest": "",
         "filename": "bar_priroda_020.md",
         "xhtml": "bar_priroda_020.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Sám ale neporažen",
         "subtitleSuggest": "",
         "filename": "bar_priroda_021.md",
         "xhtml": "bar_priroda_021.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Večerní třesky blesky (čili Hadříky, problémy)",
         "subtitleSuggest": "",
         "filename": "bar_priroda_022.md",
         "xhtml": "bar_priroda_022.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dvě minuty ticha za padlé dívky",
         "subtitleSuggest": "",
         "filename": "bar_priroda_023.md",
         "xhtml": "bar_priroda_023.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pohlednice přírodě",
         "subtitleSuggest": "",
         "filename": "bar_priroda_024.md",
         "xhtml": "bar_priroda_024.xhtml"
@@ -747,7 +802,7 @@
         "xhtml": "bar_priroda_025.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Hostinec pro dívky",
         "subtitleSuggest": "",
         "filename": "bar_priroda_026.md",
         "xhtml": "bar_priroda_026.xhtml"
@@ -777,7 +832,7 @@
         "xhtml": "bar_priroda_030.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Šeptem",
         "subtitleSuggest": "",
         "filename": "bar_priroda_031.md",
         "xhtml": "bar_priroda_031.xhtml"
@@ -789,91 +844,91 @@
         "xhtml": "bar_priroda_032.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Slavobrána do krajiny",
         "subtitleSuggest": "",
         "filename": "bar_priroda_033.md",
         "xhtml": "bar_priroda_033.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Věčný plenér II",
         "subtitleSuggest": "",
         "filename": "bar_priroda_034.md",
         "xhtml": "bar_priroda_034.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Vzpomínka na špatně čitelnou báseň",
         "subtitleSuggest": "",
         "filename": "bar_priroda_035.md",
         "xhtml": "bar_priroda_035.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Deštná bez vody",
         "subtitleSuggest": "",
         "filename": "bar_priroda_036.md",
         "xhtml": "bar_priroda_036.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Malé a menší(čili Zbloudilé střely)",
         "subtitleSuggest": "",
         "filename": "bar_priroda_037.md",
         "xhtml": "bar_priroda_037.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Čitelně: dnes jasno",
         "subtitleSuggest": "",
         "filename": "bar_priroda_038.md",
         "xhtml": "bar_priroda_038.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Deset minut poesie",
         "subtitleSuggest": "",
         "filename": "bar_priroda_039.md",
         "xhtml": "bar_priroda_039.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "…a vysoko nad laťkou hvězdy",
         "subtitleSuggest": "",
         "filename": "bar_priroda_040.md",
         "xhtml": "bar_priroda_040.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Průvodce budoucností",
         "subtitleSuggest": "",
         "filename": "bar_priroda_041.md",
         "xhtml": "bar_priroda_041.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Poránu, metr od pravdy",
         "subtitleSuggest": "",
         "filename": "bar_priroda_042.md",
         "xhtml": "bar_priroda_042.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "K budoucím bicepsům",
         "subtitleSuggest": "",
         "filename": "bar_priroda_043.md",
         "xhtml": "bar_priroda_043.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dovětek k dějinám",
         "subtitleSuggest": "",
         "filename": "bar_priroda_044.md",
         "xhtml": "bar_priroda_044.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Boží Lhota",
         "subtitleSuggest": "",
         "filename": "bar_priroda_045.md",
         "xhtml": "bar_priroda_045.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Hospoda U lidí",
         "subtitleSuggest": "",
         "filename": "bar_priroda_046.md",
         "xhtml": "bar_priroda_046.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dodatek: Slovník hlavních výrazů",
         "subtitleSuggest": "",
         "filename": "bar_priroda_047.md",
         "xhtml": "bar_priroda_047.xhtml"
@@ -1017,6 +1072,6 @@
       "user": "books-are-next",
       "repo": "kral-bar-priroda-cili-budoucnost-5-km"
     },
-    "generatedAt": 1657186834943
+    "generatedAt": 1657468111252
   }
 }

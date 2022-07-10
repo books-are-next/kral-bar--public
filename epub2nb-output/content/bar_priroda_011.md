@@ -1,13 +1,11 @@
 ---
-title: ''
-contentType: prose
+title: Budoucnost straší na návsi
+contentType: poetry
 ---
 
 <section>
 
-Budoucnost straší na návsi
-
-Prokopovi se Standou
+_Prokopovi se Standou_
 
 Kdykoliv zavřu oči spatřím zas ve tmě svou kuřáckou  
 světlušku

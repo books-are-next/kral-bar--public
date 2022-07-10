@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: O středu dřív
+contentType: poetry
 ---
 
 <section>
-
-O středu dřív
 
 Mluvíme všichni pravdu
 

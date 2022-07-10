@@ -1,12 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: 'Dodatek: Slovník hlavních výrazů'
+contentType: poetry
 ---
 
 <section>
-
-Dodatek:  
-Slovník hlavních výrazů
 
 Básníci: vyschlý potok lemovaný čerstvými básníky.
 

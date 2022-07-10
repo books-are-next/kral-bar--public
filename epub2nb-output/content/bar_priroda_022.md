@@ -1,14 +1,11 @@
 ---
-title: ''
-contentType: prose
+title: Večerní třesky blesky (čili Hadříky, problémy)
+contentType: poetry
 ---
 
 <section>
 
-Večerní třesky blesky  
-(čili Hadříky, problémy)
-
-Denise
+_Denise_
 
 Kdysi dávno rozparáděné davy vrhaly nebeského Otce  
 zpátky na oblohu

@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Šeptem
+contentType: poetry
 ---
 
 <section>
-
-Šeptem
 
 > Nejdražší,
 

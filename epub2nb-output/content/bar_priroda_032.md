@@ -1,6 +1,6 @@
 ---
 title: IVBudeme čiliČeskéBudějovice
-contentType: prose
+contentType: poetry
 ---
 
 

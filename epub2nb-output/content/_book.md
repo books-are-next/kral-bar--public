@@ -2,13 +2,17 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
   title: Bar Příroda
   identifier: urn:uuid:e79fdc2b-546d-49d8-9f97-1fe0f39fbb6f
   author: Petr Král
   publisher: Městská knihovna v Praze
   modified: '2019-11-21T00:00:00.000Z'
+  edition: poezie
+  publisherShort: mkp
+  contentType: poetry
 readingOrder:
   - promo.html
   - bar_priroda_001.html
@@ -65,6 +69,7 @@ tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

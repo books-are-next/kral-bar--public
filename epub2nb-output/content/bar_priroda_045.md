@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Boží Lhota
+contentType: poetry
 ---
 
 <section>
-
-Boží Lhota
 
 Posvátná kráva krásy drcla do stavení
 

@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Sám ale neporažen
+contentType: poetry
 ---
 
 <section>
-
-Sám ale neporažen
 
 Ano bude to zas něco o stmívání usmívám se vychytrale  
 hned v prvním verši
