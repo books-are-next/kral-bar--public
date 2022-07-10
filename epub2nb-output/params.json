@@ -38,6 +38,7 @@
         "isSection": true,
         "id": "section-1",
         "listType": "plain",
+        "devoured": false,
         "children": [
           {
             "filename": "bar_priroda_001.md",
@@ -97,6 +98,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "I Malé dějiny",
             "children": [
               {
                 "filename": "bar_priroda_006.md",
@@ -108,8 +110,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Soukromý hrad Mikuláše Medka"
+                "title": "Soukromý hrad Mikuláše Medka",
+                "children": []
               },
               {
                 "filename": "bar_priroda_007.md",
@@ -121,8 +123,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Malé dějiny (Příměří)"
+                "title": "Malé dějiny (Příměří)",
+                "children": []
               },
               {
                 "filename": "bar_priroda_008.md",
@@ -134,8 +136,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Kus textu"
+                "title": "Kus textu",
+                "children": []
               },
               {
                 "filename": "bar_priroda_009.md",
@@ -147,8 +149,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Epilog"
+                "title": "Epilog",
+                "children": []
               },
               {
                 "filename": "bar_priroda_010.md",
@@ -160,8 +162,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Žluté nebezpečí"
+                "title": "Žluté nebezpečí",
+                "children": []
               },
               {
                 "filename": "bar_priroda_011.md",
@@ -173,11 +175,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Budoucnost straší na návsi"
+                "title": "Budoucnost straší na návsi",
+                "children": []
               }
-            ],
-            "title": "I Malé dějiny"
+            ]
           },
           {
             "filename": "bar_priroda_012.md",
@@ -189,6 +190,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "II Sám ale neporažen",
             "children": [
               {
                 "filename": "bar_priroda_013.md",
@@ -200,8 +202,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Jak se v noci veršuje"
+                "title": "Jak se v noci veršuje",
+                "children": []
               },
               {
                 "filename": "bar_priroda_014.md",
@@ -213,8 +215,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Nehlučný nálet"
+                "title": "Nehlučný nálet",
+                "children": []
               },
               {
                 "filename": "bar_priroda_015.md",
@@ -226,8 +228,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Za pět minut dvanáct: všechno při starém"
+                "title": "Za pět minut dvanáct: všechno při starém",
+                "children": []
               },
               {
                 "filename": "bar_priroda_016.md",
@@ -239,8 +241,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Strašnice od jara do podzimu"
+                "title": "Strašnice od jara do podzimu",
+                "children": []
               },
               {
                 "filename": "bar_priroda_017.md",
@@ -252,8 +254,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Je léto, jsem dospělý"
+                "title": "Je léto, jsem dospělý",
+                "children": []
               },
               {
                 "filename": "bar_priroda_018.md",
@@ -265,8 +267,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Věčný plenér I"
+                "title": "Věčný plenér I",
+                "children": []
               },
               {
                 "filename": "bar_priroda_019.md",
@@ -278,8 +280,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "O středu dřív"
+                "title": "O středu dřív",
+                "children": []
               },
               {
                 "filename": "bar_priroda_020.md",
@@ -291,8 +293,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Vzpomínka na báseň-výlet"
+                "title": "Vzpomínka na báseň-výlet",
+                "children": []
               },
               {
                 "filename": "bar_priroda_021.md",
@@ -304,8 +306,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Sám ale neporažen"
+                "title": "Sám ale neporažen",
+                "children": []
               },
               {
                 "filename": "bar_priroda_022.md",
@@ -317,8 +319,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Večerní třesky blesky (čili Hadříky, problémy)"
+                "title": "Večerní třesky blesky (čili Hadříky, problémy)",
+                "children": []
               },
               {
                 "filename": "bar_priroda_023.md",
@@ -330,8 +332,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Dvě minuty ticha za padlé dívky"
+                "title": "Dvě minuty ticha za padlé dívky",
+                "children": []
               },
               {
                 "filename": "bar_priroda_024.md",
@@ -343,11 +345,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Pohlednice přírodě"
+                "title": "Pohlednice přírodě",
+                "children": []
               }
-            ],
-            "title": "II Sám ale neporažen"
+            ]
           },
           {
             "filename": "bar_priroda_025.md",
@@ -359,6 +360,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "III Hostinec pro dívky",
             "children": [
               {
                 "filename": "bar_priroda_026.md",
@@ -367,63 +369,64 @@
                 "role": "chapter",
                 "listType": "plain",
                 "inToc": true,
-                "hungry": true,
+                "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Hostinec pro dívky"
-              },
-              {
-                "filename": "bar_priroda_027.md",
-                "xhtml": "bar_priroda_027.xhtml",
-                "id": 26,
-                "role": "chapter",
-                "listType": "plain",
-                "inToc": true,
-                "hungry": false,
-                "devoured": true,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "2"
-              },
-              {
-                "filename": "bar_priroda_028.md",
-                "xhtml": "bar_priroda_028.xhtml",
-                "id": 27,
-                "role": "chapter",
-                "listType": "plain",
-                "inToc": true,
-                "hungry": false,
-                "devoured": true,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "3"
-              },
-              {
-                "filename": "bar_priroda_029.md",
-                "xhtml": "bar_priroda_029.xhtml",
-                "id": 28,
-                "role": "chapter",
-                "listType": "plain",
-                "inToc": true,
-                "hungry": false,
-                "devoured": true,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "4"
-              },
-              {
-                "filename": "bar_priroda_030.md",
-                "xhtml": "bar_priroda_030.xhtml",
-                "id": 29,
-                "role": "chapter",
-                "listType": "plain",
-                "inToc": true,
-                "hungry": false,
-                "devoured": true,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "5"
+                "title": "Hostinec pro dívky",
+                "children": [
+                  {
+                    "filename": "bar_priroda_027.md",
+                    "xhtml": "bar_priroda_027.xhtml",
+                    "id": 26,
+                    "role": "chapter",
+                    "listType": "plain",
+                    "inToc": true,
+                    "hungry": false,
+                    "devoured": false,
+                    "hiddenTitle": false,
+                    "title": "2",
+                    "children": []
+                  },
+                  {
+                    "filename": "bar_priroda_028.md",
+                    "xhtml": "bar_priroda_028.xhtml",
+                    "id": 27,
+                    "role": "chapter",
+                    "listType": "plain",
+                    "inToc": true,
+                    "hungry": false,
+                    "devoured": false,
+                    "hiddenTitle": false,
+                    "title": "3",
+                    "children": []
+                  },
+                  {
+                    "filename": "bar_priroda_029.md",
+                    "xhtml": "bar_priroda_029.xhtml",
+                    "id": 28,
+                    "role": "chapter",
+                    "listType": "plain",
+                    "inToc": true,
+                    "hungry": false,
+                    "devoured": false,
+                    "hiddenTitle": false,
+                    "title": "4",
+                    "children": []
+                  },
+                  {
+                    "filename": "bar_priroda_030.md",
+                    "xhtml": "bar_priroda_030.xhtml",
+                    "id": 29,
+                    "role": "chapter",
+                    "listType": "plain",
+                    "inToc": true,
+                    "hungry": false,
+                    "devoured": false,
+                    "hiddenTitle": false,
+                    "title": "5",
+                    "children": []
+                  }
+                ]
               },
               {
                 "filename": "bar_priroda_031.md",
@@ -435,11 +438,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Šeptem"
+                "title": "Šeptem",
+                "children": []
               }
-            ],
-            "title": "III Hostinec pro dívky"
+            ]
           },
           {
             "filename": "bar_priroda_032.md",
@@ -451,6 +453,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "IV Budeme čili České Budějovice",
             "children": [
               {
                 "filename": "bar_priroda_033.md",
@@ -462,8 +465,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Slavobrána do krajiny"
+                "title": "Slavobrána do krajiny",
+                "children": []
               },
               {
                 "filename": "bar_priroda_034.md",
@@ -475,8 +478,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Věčný plenér II"
+                "title": "Věčný plenér II",
+                "children": []
               },
               {
                 "filename": "bar_priroda_035.md",
@@ -488,8 +491,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Vzpomínka na špatně čitelnou báseň"
+                "title": "Vzpomínka na špatně čitelnou báseň",
+                "children": []
               },
               {
                 "filename": "bar_priroda_036.md",
@@ -501,8 +504,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Deštná bez vody"
+                "title": "Deštná bez vody",
+                "children": []
               },
               {
                 "filename": "bar_priroda_037.md",
@@ -514,8 +517,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Malé a menší (čili Zbloudilé střely)"
+                "title": "Malé a menší (čili Zbloudilé střely)",
+                "children": []
               },
               {
                 "filename": "bar_priroda_038.md",
@@ -527,8 +530,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Čitelně: dnes jasno"
+                "title": "Čitelně: dnes jasno",
+                "children": []
               },
               {
                 "filename": "bar_priroda_039.md",
@@ -540,8 +543,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Deset minut poesie"
+                "title": "Deset minut poesie",
+                "children": []
               },
               {
                 "filename": "bar_priroda_040.md",
@@ -553,8 +556,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "…a vysoko nad laťkou hvězdy"
+                "title": "…a vysoko nad laťkou hvězdy",
+                "children": []
               },
               {
                 "filename": "bar_priroda_041.md",
@@ -566,8 +569,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Průvodce budoucností"
+                "title": "Průvodce budoucností",
+                "children": []
               },
               {
                 "filename": "bar_priroda_042.md",
@@ -579,8 +582,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Poránu, metr od pravdy"
+                "title": "Poránu, metr od pravdy",
+                "children": []
               },
               {
                 "filename": "bar_priroda_043.md",
@@ -592,8 +595,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "K budoucím bicepsům"
+                "title": "K budoucím bicepsům",
+                "children": []
               },
               {
                 "filename": "bar_priroda_044.md",
@@ -605,8 +608,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Dovětek k dějinám"
+                "title": "Dovětek k dějinám",
+                "children": []
               },
               {
                 "filename": "bar_priroda_045.md",
@@ -618,8 +621,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Boží Lhota"
+                "title": "Boží Lhota",
+                "children": []
               },
               {
                 "filename": "bar_priroda_046.md",
@@ -631,11 +634,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Hospoda U lidí"
+                "title": "Hospoda U lidí",
+                "children": []
               }
-            ],
-            "title": "IV Budeme čili České Budějovice"
+            ]
           },
           {
             "filename": "bar_priroda_047.md",
@@ -647,8 +649,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Dodatek: Slovník hlavních výrazů"
+            "title": "Dodatek: Slovník hlavních výrazů",
+            "children": []
           },
           {
             "filename": "bar_priroda_048.md",
@@ -660,8 +662,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Poznámka"
+            "title": "Poznámka",
+            "children": []
           },
           {
             "filename": "bar_priroda_049.md",
@@ -673,8 +675,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Petr Král"
+            "title": "Petr Král",
+            "children": []
           },
           {
             "filename": "bar_priroda_050.md",
@@ -688,8 +690,7 @@
             "hiddenTitle": false,
             "children": []
           }
-        ],
-        "devoured": false
+        ]
       }
     ]
   },
@@ -1123,6 +1124,6 @@
       "user": "books-are-next",
       "repo": "kral-bar-priroda-cili-budoucnost-5-km"
     },
-    "generatedAt": 1657469307995
+    "generatedAt": 1657469730377
   }
 }

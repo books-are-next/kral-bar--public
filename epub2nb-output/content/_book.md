@@ -38,6 +38,10 @@ readingOrder:
   - bar_priroda_024.html
   - bar_priroda_025.html
   - bar_priroda_026.html
+  - bar_priroda_027.html
+  - bar_priroda_028.html
+  - bar_priroda_029.html
+  - bar_priroda_030.html
   - bar_priroda_031.html
   - bar_priroda_032.html
   - bar_priroda_033.html
@@ -132,18 +136,20 @@ tocBase:
           - link: bar_priroda_026.html
             title: Hostinec pro dívky
             hiddenTitle: false
-          - link: bar_priroda_027.html
-            title: '2'
-            hiddenTitle: false
-          - link: bar_priroda_028.html
-            title: '3'
-            hiddenTitle: false
-          - link: bar_priroda_029.html
-            title: '4'
-            hiddenTitle: false
-          - link: bar_priroda_030.html
-            title: '5'
-            hiddenTitle: false
+            children:
+              - link: bar_priroda_027.html
+                title: '2'
+                hiddenTitle: false
+              - link: bar_priroda_028.html
+                title: '3'
+                hiddenTitle: false
+              - link: bar_priroda_029.html
+                title: '4'
+                hiddenTitle: false
+              - link: bar_priroda_030.html
+                title: '5'
+                hiddenTitle: false
+            listType: plain
           - link: bar_priroda_031.html
             title: Šeptem
             hiddenTitle: false
