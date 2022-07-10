@@ -3,13 +3,14 @@
     "isPreview": false
   },
   "title": "Bar Příroda",
+  "subtitle": "čili Budoucnost 5 km",
   "author": "Petr Král",
   "publisher": "Městská knihovna v Praze",
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kral-bar-priroda-3f2a6c0",
-  "revision": "3f2a6c0",
+  "identifier": "kral-bar-priroda-1368727",
+  "revision": "1368727",
   "readingOrder": [
     "promo.html",
     "bar_priroda_001.html",
@@ -64,8 +65,8 @@
     "bar_priroda_050.html"
   ],
   "generatedAt": {
-    "date": "Sun Jul 10 2022 15:49:46 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657468186626
+    "date": "Sun Jul 10 2022 15:59:06 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657468746025
   },
   "documents": [
     {
@@ -596,20 +597,12 @@
           "level": 1,
           "name": "Hostinec pro dívky",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "1",
-              "id": "1",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Bar Příroda",
+      "title": "2",
       "file": "bar_priroda_027.html",
       "words": 217,
       "chars": 1395,
@@ -622,22 +615,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "2",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "2",
-              "id": "2",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Bar Příroda",
+      "title": "3",
       "file": "bar_priroda_028.html",
       "words": 374,
       "chars": 2298,
@@ -650,22 +635,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "3",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "3",
-              "id": "3",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Bar Příroda",
+      "title": "4",
       "file": "bar_priroda_029.html",
       "words": 361,
       "chars": 2274,
@@ -678,22 +655,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "4",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "4",
-              "id": "4",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Bar Příroda",
+      "title": "5",
       "file": "bar_priroda_030.html",
       "words": 490,
       "chars": 2923,
@@ -706,17 +675,9 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "5",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "5",
-              "id": "5",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -896,22 +857,7 @@
           "level": 1,
           "name": "Deset minut poesie",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "—",
-              "id": "heading",
-              "children": []
-            },
-            {
-              "index": 2,
-              "level": 2,
-              "name": "—",
-              "id": "heading-1",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -951,22 +897,7 @@
           "level": 1,
           "name": "Průvodce budoucností",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "—",
-              "id": "heading",
-              "children": []
-            },
-            {
-              "index": 2,
-              "level": 2,
-              "name": "—",
-              "id": "heading-1",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },

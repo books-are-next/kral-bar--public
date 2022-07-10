@@ -1,11 +1,9 @@
 ---
-title: ''
+title: '5'
 contentType: poetry
 ---
 
 <section>
-
-## 5
 
 _Karlovi Š._
 

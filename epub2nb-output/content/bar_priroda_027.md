@@ -1,11 +1,9 @@
 ---
-title: ''
+title: '2'
 contentType: poetry
 ---
 
 <section>
-
-## 2
 
 _Alešovi K._
 

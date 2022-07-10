@@ -1,11 +1,9 @@
 ---
-title: ''
+title: '4'
 contentType: poetry
 ---
 
 <section>
-
-## 4
 
 _Alešovi K._
 
