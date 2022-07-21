@@ -9,8 +9,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kral-bar-priroda-892c70a",
-  "revision": "892c70a",
+  "identifier": "kral-bar-priroda-cf6fc3a",
+  "revision": "cf6fc3a",
   "readingOrder": [
     "promo.html",
     "bar_priroda_005.html",
@@ -61,8 +61,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sun Jul 10 2022 16:16:51 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657469811375
+    "date": "Thu Jul 21 2022 14:30:45 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658413845161
   },
   "documents": [
     {
