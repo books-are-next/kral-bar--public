@@ -62,7 +62,5 @@ vesnice
 jen opuštěná hromada svinstev
 
 Vykřičník
-
-_[^1] Šlo ovšem o pouhou napodobeninu z písku._
-
+[^1]: Šlo ovšem o pouhou napodobeninu z písku.
 </section>

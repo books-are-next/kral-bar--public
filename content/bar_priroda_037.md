@@ -138,7 +138,7 @@ V brance Slavie kvičí sparťanský čuník.
 
 Lidé roztávají v potůčky a ženou se k moři.
 
-Syreček ve tvaru srdce.[2](./resources/undefined)
+Syreček ve tvaru srdce.[^2]
 
 Ztracená klika od matky.
 
