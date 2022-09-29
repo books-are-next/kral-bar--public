@@ -9,8 +9,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kral-bar-priroda-cf6fc3a",
-  "revision": "cf6fc3a",
+  "identifier": "kral-bar-priroda-6a53fdc",
+  "revision": "6a53fdc",
   "readingOrder": [
     "promo.html",
     "bar_priroda_005.html",
@@ -61,8 +61,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:30:45 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658413845161
+    "date": "Thu Sep 29 2022 21:27:10 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486830761
   },
   "documents": [
     {
@@ -461,7 +461,7 @@
       "title": "Pohlednice přírodě",
       "file": "bar_priroda_024.html",
       "words": 217,
-      "chars": 1285,
+      "chars": 1280,
       "ideas": 35,
       "role": "chapter",
       "order": 20,
@@ -721,7 +721,7 @@
       "title": "Malé a menší(čili Zbloudilé střely)",
       "file": "bar_priroda_037.html",
       "words": 761,
-      "chars": 4738,
+      "chars": 4741,
       "ideas": 100,
       "role": "chapter",
       "order": 33,
@@ -920,9 +920,9 @@
     {
       "title": "Dodatek: Slovník hlavních výrazů",
       "file": "bar_priroda_047.html",
-      "words": 405,
-      "chars": 2570,
-      "ideas": 67,
+      "words": 393,
+      "chars": 2503,
+      "ideas": 66,
       "role": "chapter",
       "order": 43,
       "prev": "bar_priroda_046.html",
@@ -1000,14 +1000,14 @@
   ],
   "totals": {
     "all": {
-      "words": 14354,
-      "chars": 85354,
-      "ideas": 2043
+      "words": 14342,
+      "chars": 85285,
+      "ideas": 2042
     },
     "chapters": {
-      "words": 14194,
-      "chars": 84319,
-      "ideas": 2021
+      "words": 14182,
+      "chars": 84250,
+      "ideas": 2020
     }
   }
 }
