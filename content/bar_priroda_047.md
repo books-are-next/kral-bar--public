@@ -134,5 +134,7 @@ Vlajka: jedna vlajka Ameriky vydá za třicet jitrnic.
 Výlet: do lesa pro zrcadlo.
 
 Zrcadlo, čili konec světa.
+
 [^2]: Až se přesunu do Francie, najdu tu ten nápad skutečně realizován.
+
 </section>
