@@ -6,11 +6,10 @@ title: Tiráž
 Bar Příroda**  
 **čili Budoucnost 5 km**  
 Edice Čeští básníci 20. století  
-Ilustrace Hybrid\_Graphics/Shutterstock.com  
 Redakce Jaroslava Bednářová  
 Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  
-V MKP 2. elektronické vydání z 7. 10. 2022.
+V MKP 2. elektronické vydání z 10. 10. 2022.
 
 ***
 

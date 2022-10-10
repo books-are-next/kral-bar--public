@@ -9,8 +9,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kral-bar-priroda-01ebfcd",
-  "revision": "01ebfcd",
+  "identifier": "kral-bar-priroda-d384a95",
+  "revision": "d384a95",
   "readingOrder": [
     "promo.html",
     "bar_priroda_005.html",
@@ -61,8 +61,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:10:24 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151824526
+    "date": "Mon Oct 10 2022 16:02:36 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417756090
   },
   "documents": [
     {
@@ -980,9 +980,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 154,
-      "chars": 1006,
-      "ideas": 18,
+      "words": 152,
+      "chars": 965,
+      "ideas": 17,
       "role": "about",
       "order": null,
       "prev": "bar_priroda_049.html",
@@ -1000,9 +1000,9 @@
   ],
   "totals": {
     "all": {
-      "words": 14342,
-      "chars": 85285,
-      "ideas": 2042
+      "words": 14340,
+      "chars": 85244,
+      "ideas": 2041
     },
     "chapters": {
       "words": 14182,
