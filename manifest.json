@@ -9,8 +9,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kral-bar-priroda-ded4ab3",
-  "revision": "ded4ab3",
+  "identifier": "kral-bar-priroda-76728fc",
+  "revision": "76728fc",
   "readingOrder": [
     "promo.html",
     "bar_priroda_005.html",
@@ -61,8 +61,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Dec 15 2022 14:33:44 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1671114824200
+    "date": "Thu Dec 15 2022 14:44:23 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1671115463281
   },
   "documents": [
     {
@@ -78,10 +78,10 @@
       "toc": []
     },
     {
-      "title": "IMalédějiny",
+      "title": "I Malé dějiny",
       "file": "bar_priroda_005.html",
-      "words": 1,
-      "chars": 11,
+      "words": 3,
+      "chars": 13,
       "ideas": 1,
       "role": "chapter",
       "order": 1,
@@ -91,7 +91,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "IMalédějiny",
+          "name": "I Malé dějiny",
           "id": null,
           "children": []
         }
@@ -218,10 +218,10 @@
       ]
     },
     {
-      "title": "IISámaleneporažen",
+      "title": "II Sám ale neporažen",
       "file": "bar_priroda_012.html",
-      "words": 1,
-      "chars": 17,
+      "words": 4,
+      "chars": 20,
       "ideas": 1,
       "role": "chapter",
       "order": 8,
@@ -231,7 +231,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "IISámaleneporažen",
+          "name": "II Sám ale neporažen",
           "id": null,
           "children": []
         }
@@ -478,10 +478,10 @@
       ]
     },
     {
-      "title": "IIIHostinecpro dívky",
+      "title": "III Hostinec pro dívky",
       "file": "bar_priroda_025.html",
-      "words": 2,
-      "chars": 20,
+      "words": 4,
+      "chars": 22,
       "ideas": 1,
       "role": "chapter",
       "order": 21,
@@ -491,7 +491,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "IIIHostinecpro dívky",
+          "name": "III Hostinec pro dívky",
           "id": null,
           "children": []
         }
@@ -618,10 +618,10 @@
       ]
     },
     {
-      "title": "IVBudeme čiliČeskéBudějovice",
+      "title": "IV Budeme čili České Budějovice",
       "file": "bar_priroda_032.html",
-      "words": 2,
-      "chars": 28,
+      "words": 5,
+      "chars": 31,
       "ideas": 1,
       "role": "chapter",
       "order": 28,
@@ -631,7 +631,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "IVBudeme čiliČeskéBudějovice",
+          "name": "IV Budeme čili České Budějovice",
           "id": null,
           "children": []
         }
@@ -1000,13 +1000,13 @@
   ],
   "totals": {
     "all": {
-      "words": 14340,
-      "chars": 85244,
+      "words": 14350,
+      "chars": 85254,
       "ideas": 2041
     },
     "chapters": {
-      "words": 14182,
-      "chars": 84250,
+      "words": 14192,
+      "chars": 84260,
       "ideas": 2020
     }
   }
