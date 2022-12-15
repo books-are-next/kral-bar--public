@@ -1,5 +1,5 @@
 ---
-title: IIIHostinecpro dívky
+title: III Hostinec pro dívky
 contentType: poetry
 ---
 

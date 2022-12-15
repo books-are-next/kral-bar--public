@@ -1,5 +1,5 @@
 ---
-title: IVBudeme čiliČeskéBudějovice
+title: IV Budeme čili České Budějovice
 contentType: poetry
 ---
 
